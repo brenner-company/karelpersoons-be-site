@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
   font-family: Nunito;
-  src: url('../assets/fonts/Nunito-regular.ttf') format('truetype');
+  src: url('../assets/fonts/Nunito-Regular.ttf') format('truetype');
   font-display: swap;
 }
 
